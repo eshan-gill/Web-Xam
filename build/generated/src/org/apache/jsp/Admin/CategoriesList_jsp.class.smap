@@ -1,0 +1,36 @@
+SMAP
+CategoriesList_jsp.java
+JSP
+*S JSP
+*F
++ 0 CategoriesList.jsp
+Admin/CategoriesList.jsp
++ 1 Header.html
+Admin/Header.html
++ 2 Options.html
+Admin/Options.html
+*L
+4,14:52
+1#1,166:66
+17#0,6:231
+23,3:238
+25:241
+26,2:242,3
+28:248
+1#2,39:249
+28#0,7:287
+35,17:295
+51,8:312
+59,3:321
+61,3:324
+64:327,3
+65:330
+66:331,3
+67,2:334
+69:336,3
+70,2:339
+72:341,3
+73,2:344
+75:346,3
+76,5:349
+*E

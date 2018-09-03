@@ -1,0 +1,36 @@
+SMAP
+DepartmentsList_jsp.java
+JSP
+*S JSP
+*F
++ 0 DepartmentsList.jsp
+Admin/DepartmentsList.jsp
++ 1 Header.html
+Admin/Header.html
++ 2 Options.html
+Admin/Options.html
+*L
+5,14:52
+1#1,166:66
+18#0,4:231
+22,3:236
+24:239
+25,2:240,3
+27:246
+1#2,39:247
+27#0,5:285
+32,16:291
+47,11:307
+58,3:319
+60,3:322
+63,4:325,3
+67:337
+68:338,3
+69,2:341
+71:343,3
+72,2:346
+74:348,3
+75,2:351
+77:353,3
+78,5:356
+*E

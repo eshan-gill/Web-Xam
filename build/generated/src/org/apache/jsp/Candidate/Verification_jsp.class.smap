@@ -1,0 +1,26 @@
+SMAP
+Verification_jsp.java
+JSP
+*S JSP
+*F
++ 0 Verification.jsp
+Candidate/Verification.jsp
++ 1 Header.html
+Candidate/Header.html
++ 2 Options.html
+Candidate/Options.html
+*L
+1,37:58
+1#1,139:95
+37#0,4:233
+1#2,8:237
+40#0,5:244
+45,4:14
+48,2:249
+50,26:252
+75,7:278
+82:285,3
+83,5:288
+88,2:293,3
+90,7:299
+*E
